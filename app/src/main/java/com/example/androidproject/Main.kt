@@ -1,6 +1,6 @@
 package com.example.androidproject
 
-fun main(){
+  fun main(){
     println("Welcome Kotlin!!")
     /*
     var myName:String = "Ash"
@@ -30,7 +30,7 @@ fun main(){
     println("${nums.size}")
 
 */
-    var myString:String = "Android Kotlin"
+   /* var myString:String = "Android Kotlin"
     var myFloat:Float = 13.37f
     val myDouble:Double = 3.14159265358979
     var myInt:Int = 27
@@ -39,5 +39,10 @@ fun main(){
     println(myFloat)
     println(myDouble)
     println(myInt)
+*/
+   // var a = "19"
+    //var b = "1"
+    //var c:String = (a.toInt() + b.toInt()).toString()
 
 }
+
