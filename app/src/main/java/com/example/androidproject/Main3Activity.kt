@@ -33,6 +33,7 @@ class Main3Activity : AppCompatActivity() {
                 ++i
             }
             result.setText(s)
+            // for emptying the text after o/p is displayed input.setText("")
         })
     }
 }
