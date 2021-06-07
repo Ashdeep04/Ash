@@ -1,7 +1,31 @@
 package com.example.androidproject
 
-  fun main(){
-    println("Welcome Kotlin!!")
+  fun main() {
+    //println("Welcome Kotlin!!")
+    //for (i in 20..40){
+    //print("$i\n")
+    //}
+
+    //var lang = arrayOf("C","Java","Kotlin","Python")
+    //for (index in lang.indices){
+    // print(lang[index])
+    //}
+    var a: Int = 23
+    var b: Int = 30
+    var x:Int = hello(a, b)
+    display(x)
+
+  }
+fun hello(a:Int,b:Int):Int{
+ var c:Int = a+b
+  return c
+}
+fun display(c:Int){
+  print("Result : $c")
+}
+
+
+
     /*
     var myName:String = "Ash"
     var num = 10
@@ -44,5 +68,5 @@ package com.example.androidproject
     //var b = "1"
     //var c:String = (a.toInt() + b.toInt()).toString()
 
-}
+
 

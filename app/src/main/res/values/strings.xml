@@ -1,10 +1,10 @@
 <resources>
     <string name="app_name">AndroidProject</string>
-      <string-array name="array_colors">
+    <string-array name="array_colors">
 
-          <item>Red</item>
-          <item>Green</item>
-          <item>Yellow</item>
-          <item>Blue</item>
-      </string-array>
+        <item>Red</item>
+        <item>Green</item>
+        <item>Yellow</item>
+        <item>Blue</item>
+    </string-array>
 </resources>
