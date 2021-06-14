@@ -11,7 +11,7 @@ import android.widget.TextView
 class MainActivity4 : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_4main)
+        setContentView(R.layout.activity_main4)
         var btn = findViewById<Button>(R.id.button_4)
         var numf = findViewById<EditText>(R.id.et1_4)
         var nums = findViewById<EditText>(R.id.et2_4)

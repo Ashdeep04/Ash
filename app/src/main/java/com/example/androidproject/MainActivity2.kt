@@ -11,7 +11,7 @@ import androidx.constraintlayout.widget.ConstraintLayout
 class MainActivity2 : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main4)
+        setContentView(R.layout.activity_main2)
 
 
         var layout = findViewById<ConstraintLayout>(R.id.container)
