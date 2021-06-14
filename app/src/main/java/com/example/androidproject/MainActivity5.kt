@@ -32,6 +32,7 @@ class MainActivity5 : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main5)
+
         var ip1 = findViewById<EditText>(R.id.entry_1);
         var ip2 = findViewById<EditText>(R.id.entry_2);
         var but11 = findViewById<Button>(R.id.infobut);
